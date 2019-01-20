@@ -3,7 +3,7 @@ author: jralvarezc
 comments: true
 date: 2015-07-25 18:43:23+00:00
 layout: single
-slug: la-hora-nalga
+slug: hora-nalga
 title: La Hora Nalga
 categories: [blog]
 tags: [tiempo]

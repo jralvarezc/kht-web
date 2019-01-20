@@ -3,7 +3,7 @@ author: jralvarezc
 comments: true
 date: 2015-02-01 01:38:50+00:00
 layout: single
-slug: facturacion-realidad-o-ficcion
+slug: facturacion-realidad-ficcion
 title: 'Facturación: ¿Realidad o Ficción?'
 categories: [blog]
 tags: [finanzas]

@@ -3,8 +3,8 @@ author: jralvarezc
 comments: true
 date: 2015-02-22 23:33:25+00:00
 layout: single
-slug: costo-total-de-mano-de-obra-en-colombia
-title: Costo Total de Mano de Obra en Colombia
+slug: costo-laboral-colombia
+title: Costo Total Laboral en Colombia
 categories: [blog]
 tags: [finanzas]
 ---

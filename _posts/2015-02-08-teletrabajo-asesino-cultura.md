@@ -3,7 +3,7 @@ author: jralvarezc
 comments: true
 date: 2015-02-08 19:58:46+00:00
 layout: single
-slug: tele-trabajo-el-asesino-de-la-cultura
+slug: teletrabajo-asesino-cultura
 title: 'Tele-trabajo:  El asesino de la cultura'
 categories: [blog]
 tags: [teletrabajo]

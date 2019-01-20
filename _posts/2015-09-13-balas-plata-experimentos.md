@@ -3,7 +3,7 @@ author: jralvarezc
 comments: true
 date: 2015-09-13 18:21:59+00:00
 layout: single
-slug: balas-de-plata-y-experimentos
+slug: balas-plata-experimentos
 title: Balas de plata y experimentos
 categories: [blog]
 tags: [innovacion]

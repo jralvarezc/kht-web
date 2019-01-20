@@ -3,7 +3,7 @@ author: jralvarezc
 comments: true
 date: 2015-04-03 18:28:37+00:00
 layout: single
-slug: la-escarapela-del-emprendedor
+slug: escarapela-emprendedor
 title: La Escarapela del Emprendedor
 categories: [blog]
 tags: [emprender]
