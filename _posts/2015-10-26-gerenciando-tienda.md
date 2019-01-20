@@ -7,7 +7,7 @@ link: https://koherente.wordpress.com/2015/10/26/gerenciando-como-una-tienda/
 slug: gerenciando-como-una-tienda
 title: Gerenciando una tienda
 categories: [blog]
-blog: [finanzas]
+tags: [finanzas]
 ---
 
 Hace mucho tiempo tuve la oportunidad de trabajar en un almacén como cajero. Una

@@ -6,7 +6,7 @@ layout: single
 slug: insultado-patrimonio
 title: Insultado por el Patrimonio
 categories: [blog]
-blog: [emprender]
+tags: [emprender]
 ---
 
 Ser emprendedor está de moda, ser el próximo Steve Jobs es la fantasía más

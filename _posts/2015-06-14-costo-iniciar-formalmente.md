@@ -7,7 +7,7 @@ link: https://koherente.wordpress.com/2015/06/14/costo-minimo-de-iniciar-formalm
 slug: costo-minimo-de-iniciar-formalmente
 title: Costo Mínimo de Iniciar Formalmente
 categories: [blog]
-blog: [finanzas]
+tags: [finanzas]
 ---
 
 Una de las preguntas más frecuentes cuando una persona ha decidido arrancar su
