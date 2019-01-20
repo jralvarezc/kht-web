@@ -113,3 +113,7 @@ author:
       icon: "fas fa-fw fa-sms"
       url: "sms:573108399653"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "koherente"
