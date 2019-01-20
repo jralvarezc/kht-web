@@ -3,7 +3,6 @@ author: jralvarezc
 comments: true
 date: 2015-04-03 18:28:37+00:00
 layout: single
-link: https://koherente.wordpress.com/2015/04/03/la-escarapela-del-emprendedor/
 slug: la-escarapela-del-emprendedor
 title: La Escarapela del Emprendedor
 categories: [blog]

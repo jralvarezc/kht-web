@@ -3,7 +3,6 @@ author: jralvarezc
 comments: true
 date: 2015-07-25 18:43:23+00:00
 layout: single
-link: https://koherente.wordpress.com/2015/07/25/la-hora-nalga/
 slug: la-hora-nalga
 title: La Hora Nalga
 categories: [blog]

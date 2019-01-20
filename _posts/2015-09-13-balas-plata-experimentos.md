@@ -3,7 +3,6 @@ author: jralvarezc
 comments: true
 date: 2015-09-13 18:21:59+00:00
 layout: single
-link: https://koherente.wordpress.com/2015/09/13/balas-de-plata-y-experimentos/
 slug: balas-de-plata-y-experimentos
 title: Balas de plata y experimentos
 categories: [blog]

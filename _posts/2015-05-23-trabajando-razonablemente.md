@@ -3,7 +3,6 @@ author: jralvarezc
 comments: true
 date: 2015-05-23 20:11:14+00:00
 layout: single
-link: https://koherente.wordpress.com/2015/05/23/trabajando-inteligente-y-razonablemente/
 slug: trabajando-inteligente-y-razonablemente
 title: Trabajando inteligente Y razonablemente
 categories: [blog]

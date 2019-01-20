@@ -3,7 +3,6 @@ author: jralvarezc
 comments: true
 date: 2015-10-26 02:29:03+00:00
 layout: single
-link: https://koherente.wordpress.com/2015/10/26/gerenciando-como-una-tienda/
 slug: gerenciando-como-una-tienda
 title: Gerenciando una tienda
 categories: [blog]

@@ -3,7 +3,6 @@ author: jralvarezc
 comments: true
 date: 2015-03-02 02:50:20+00:00
 layout: single
-link: https://koherente.wordpress.com/2015/03/02/salario-variable-enron-en-tu-empresa/
 slug: salario-variable-enron-en-tu-empresa
 title: 'Salario variable: Enron en tu empresa'
 categories: [blog]
