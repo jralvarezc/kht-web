@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://xenodochial-northcutt-902b66.netlify.com/* http://koherente.com/:splat 301!
+http://koherente.netlify.com/* http://koherente.com/:splat 301!
