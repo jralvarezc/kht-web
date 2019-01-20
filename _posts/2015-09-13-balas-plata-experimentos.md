@@ -6,7 +6,7 @@ layout: single
 slug: balas-de-plata-y-experimentos
 title: Balas de plata y experimentos
 categories: [blog]
-tags: [experimentos]
+tags: [innovacion]
 ---
 
 Cuando se crea una pagina web por primera vez es usual recurrir a algunos
