@@ -46,6 +46,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+locale: "es"
 
 masthead_title: "Koherente"
 logo: "/assets/logo.png"
@@ -77,10 +78,10 @@ paginate_path: /page:num/
 
 category_archive:
   type: jekyll-archives
-  path: /categories/
+  path: /categorias/
 tag_archive:
   type: jekyll-archives
-  path: /tags/
+  path: /etiquetas/
 
 jekyll-archives:
   enabled:
@@ -90,8 +91,8 @@ jekyll-archives:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+    category: /categorias/:name/
+    tag: /etiquetas/:name/
 
 author:
   name: "Rafael Alvarez"

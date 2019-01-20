@@ -1,9 +1,3 @@
 main:
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-#  - title: "Pages"
-#    url: /page-archive/
-#  - title: "Collections"
-#    url: /collection-archive/
+  - title: "Etiquetas"
+    url: /etiquetas/
