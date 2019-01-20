@@ -98,11 +98,17 @@ author:
   avatar: "https://www.gravatar.com/avatar/f0b1d9f927dec27d6d16a9dd2f5f1615?s=400"
   bio: "Emprendedor, líder de equipos de ingenieria, miembro de junta, obsesivo de la medición, conferencista y docente universitario"
   location: "Medellín, Colombia"
-  email: juanr.alvarez@gmail.com
+  email: rafa@koherente.com
   links:
-    - label: "Made Mistakes"
-      icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "http://linkedin.com/in/ralvarezc"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/ralvarezatfluid"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jralvarezc"
+    - label: "SMS"
+      icon: "fas fa-fw fa-sms"
+      url: "sms:573108399653"
