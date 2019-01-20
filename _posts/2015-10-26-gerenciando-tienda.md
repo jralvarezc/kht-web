@@ -1,7 +1,5 @@
 ---
-comments: true
 date: 2015-10-26 02:29:03+00:00
-layout: single
 slug: gerenciando-tienda
 title: Gerenciando una tienda
 categories: [blog]

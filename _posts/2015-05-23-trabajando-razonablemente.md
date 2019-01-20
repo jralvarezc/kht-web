@@ -1,7 +1,5 @@
 ---
-comments: true
 date: 2015-05-23 20:11:14+00:00
-layout: single
 slug: trabajando-razonablemente
 title: Trabajando inteligente Y razonablemente
 categories: [blog]

@@ -1,9 +1,7 @@
 ---
-comments: true
 date: 2015-03-02 02:50:20+00:00
-layout: single
 slug: salario-variable-enron
-title: 'Salario variable: Enron en tu empresa'
+title: "Salario variable: Enron en tu empresa"
 categories: [blog]
 tags: [salario]
 ---

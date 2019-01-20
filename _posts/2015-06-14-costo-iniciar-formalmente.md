@@ -1,7 +1,5 @@
 ---
-comments: true
 date: 2015-06-14 00:11:28+00:00
-layout: single
 slug: costo-iniciar-formalmente
 title: Costo Mínimo de Iniciar Formalmente
 categories: [blog]

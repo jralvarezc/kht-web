@@ -1,7 +1,5 @@
 ---
-comments: true
 date: 2015-02-16 02:32:24+00:00
-layout: single
 slug: insultado-patrimonio
 title: Insultado por el Patrimonio
 categories: [blog]
