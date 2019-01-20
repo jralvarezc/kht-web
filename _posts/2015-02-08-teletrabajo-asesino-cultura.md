@@ -1,5 +1,4 @@
 ---
-author: jralvarezc
 comments: true
 date: 2015-02-08 19:58:46+00:00
 layout: single
