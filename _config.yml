@@ -93,3 +93,9 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "koherente"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-132789104-1"
+    anonymize_ip: false
