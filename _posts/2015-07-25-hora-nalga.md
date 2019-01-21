@@ -4,6 +4,8 @@ slug: hora-nalga
 title: La Hora Nalga
 categories: [blog]
 tags: [tiempo]
+header:
+  image: /assets/nalga.jpg
 ---
 
 El mundo de la prestación de servicios de tecnología entre empresas se

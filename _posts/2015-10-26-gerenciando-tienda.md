@@ -4,6 +4,8 @@ slug: gerenciando-tienda
 title: Gerenciando una tienda
 categories: [blog]
 tags: [finanzas]
+header:
+  image: /assets/tienda.jpg
 ---
 
 Hace mucho tiempo tuve la oportunidad de trabajar en un almacén como cajero. Una
